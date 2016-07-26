@@ -14,8 +14,12 @@
 - Comparison (Simile)
 	- The narrator constantly uses analogies to describe his experiences, which gives the readers a glimpse into his perception of others and how they affect him.
 	- [pg. 211] “I felt myself like a lettuce being unwrapped leaf by leaf until my heart lay cupped in her palm.”
-	- He likens his conversation with Lina to her physically exposing his deepest vulnerabilities, which reveals how he views Lina as overwhelming. It also reveals how the narrator is insecure in the presence of Lina. 
+	- He likens his conversation with Lina to her physically exposing his deepest vulnerabilities, which reveals 
+		- how he views Lina as overwhelming -- a sweeping wave of emotion
+		- how the narrator is insecure in the presence of Lina. (or anyone who unravels his inner feelings)
 
 # Diction and Syntax
 - “...the feeling, of existing in an inviolable cocoon with your lover…” [pg. 211]
-- He uses the metaphor of being in a cocoon, which shows how he feels a sense of security from his relationship. However, the usage of the word “inviolable” implies that he is also shutting himself off from the world, escaping from his problems.
+	- He uses the metaphor of being in a cocoon, which shows how he feels a sense of security from his relationship. 
+	- However, the usage of the word _“inviolable”_ implies that he is also shutting himself off from the world, escaping from his problems.
+	- **slightly negative** connotation of the word _“inviolable”_ reminds readers that he likes privacy, contrasting how he behaves with Lina with how he behaves with others
