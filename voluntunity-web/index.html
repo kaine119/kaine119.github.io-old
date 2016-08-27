@@ -1,0 +1,90 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Survey</title>
+	<link rel="stylesheet" type="text/css" href="stylesheet.css">
+	<link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+
+</head>
+<body>
+<div class="navbox"><h1 class="welcome">Welcome to Voluntunity's survey page!</h1></div>
+
+<div id="formBox">
+<form>
+    <label for="eName">Name of Event</label>
+    <input type="text" id="eName" name="eventName" required>
+
+    <label for="oName">Name of Organisation</label>
+    <input type="text" id="oName" name="organisationName" required>
+
+    <label for="desc">Description</label>
+		<textarea id="desc"></textarea required>
+
+    <label for="dmy">Date/Month/Year</label>
+    <input type="date" id="dmy" name="datemonthyear" required>
+
+    <label for="sti">Start Time</label>
+    <input type="time" id="sti" name="startTime" required>
+
+    <label for="eti">End Time</label>
+    <input type="time" id="eti" name="endTime" required>
+
+    <label for="addr">Address</label>
+    <input type="text" id="addr" name="address" required>
+
+    <label for="ra">Roles Available</label>
+    <input type="text" id="ra" name="rolesAvailable" required>
+
+		<label for="list">Category</label>
+		<select>
+      <option selected="true" value="optionSelect">Select a category..</option>
+      <option value="animWelf">Animal Welfare</option>
+      <option value="artHeri">Arts and Heritage</option>
+      <option value="childYou">Children and Youth</option>
+			<option value="commun">Community</option>
+			<option value="disab">Disability</option>
+			<option value="edu">Education</option>
+			<option value="elder">Elderly</option>
+			<option value="enviro">Environment</option>
+			<option value="fam">Family</option>
+			<option value="heal">Health</option>
+			<option value="human">Humanitarian</option>
+			<option value="pubServ">Public Service</option>
+			<option value="socServ">Social Service</option>
+			<option value="sport">Sports</option>
+    </select required>
+
+    <label for="skillreq">Skills Required</label>
+    <input type="text" id="skillreq" name="skillsRequired" required>
+
+		<label for="linkSite">Link to your website</label>
+    <input type="text" id="linkSite" name="linkToSite" placeholder="Optional">
+
+
+
+    <label for="btn"></label>
+    <input type="submit" value="Submit" id="submitEvent">
+</form>
+</div>
+
+<script src="https://www.gstatic.com/firebasejs/3.3.0/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/3.3.0/firebase-database.js"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBTeXBbL5uBx-NJF7ggoV0QylEiMox_KcA"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyDAME1d0-fotqoGDMzB-Vn5BFnxZ73ZU0w",
+    authDomain: "voluntunity-aa531.firebaseapp.com",
+    databaseURL: "https://voluntunity-aa531.firebaseio.com",
+    storageBucket: "voluntunity-aa531.appspot.com",
+  };
+  firebase.initializeApp(config);
+</script>
+
+
+
+<script type="text/javascript" src="./firebase.js"></script>
+
+</body>
+</html>
