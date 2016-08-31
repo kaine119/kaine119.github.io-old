@@ -40,6 +40,8 @@ function onSubmit(){
 	var timeToSubmit = startTime + " to " + endTime;
 	var title = document.getElementById('eName').value;
 	var url = document.getElementById('linkSite').value || "http://google.com"; 
+	var tags = document.getElementById('tags').value;
+	console.log(tags)
 
 	console.log(address, date, desc, org, roles, skills, startTime, endTime, timeToSubmit, title, url);
 	getLatLng(address, function(err, latlng){
@@ -53,7 +55,7 @@ function onSubmit(){
 			"org": org,
 			"roles": roles,
 			"skills": skills,
-			"tags": ["SOCIAL_SERVICE"],
+			"tags": [tags],
 			"time": timeToSubmit,
 			"title": title,
 			"url": url

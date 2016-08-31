@@ -2,13 +2,14 @@
 <!DOCTYPE html>
 <html>
 <head>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Survey</title>
 	<link rel="stylesheet" type="text/css" href="stylesheet.css">
 	<link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
 
 </head>
 <body>
-<div class="navbox"><h1 class="welcome">Welcome to Voluntunity's survey page!</h1></div>
+<div class="navbox"><h1 class="welcome">Add an event to Voluntunity</h1></div>
 
 <div id="formBox">
 <form>
@@ -37,22 +38,23 @@
     <input type="text" id="ra" name="rolesAvailable" required>
 
 		<label for="list">Category</label>
-		<select>
+		<select id="tags">
       <option selected="true" value="optionSelect">Select a category..</option>
-      <option value="animWelf">Animal Welfare</option>
-      <option value="artHeri">Arts and Heritage</option>
-      <option value="childYou">Children and Youth</option>
-			<option value="commun">Community</option>
-			<option value="disab">Disability</option>
-			<option value="edu">Education</option>
-			<option value="elder">Elderly</option>
-			<option value="enviro">Environment</option>
-			<option value="fam">Family</option>
-			<option value="heal">Health</option>
-			<option value="human">Humanitarian</option>
-			<option value="pubServ">Public Service</option>
-			<option value="socServ">Social Service</option>
-			<option value="sport">Sports</option>
+      <option value="ANIMAL_WELFARE">Animal Welfare</option>
+      <option value="ARTS_HERITAGE">Arts and Heritage</option>
+      <option value="CHILDREN_AND_YOUTH">Children and Youth</option>
+			<option value="COMMUNITY">Community</option>
+			<option value="DISABILITY">Disability</option>
+      <option value="FUNDRAISING">Fundraising</option>
+			<option value="EDUCATION">Education</option>
+			<option value="ELDERLY">Elderly</option>
+			<option value="ENVIRONMENT">Environment</option>
+			<option value="FAMILY">Family</option>
+			<option value="HEALTH">Health</option>
+			<option value="HUMANITARIAN">Humanitarian</option>
+			<option value="PUBLIC_SERVICE">Public Service</option>
+			<option value="SOCIAL_SERVICE">Social Service</option>
+			<option value="SPORTS">Sports</option>
     </select required>
 
     <label for="skillreq">Skills Required</label>
