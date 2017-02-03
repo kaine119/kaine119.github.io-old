@@ -3,6 +3,7 @@
   <head>
     <meta charset="utf-8">
     <script async src="https://cdn.ampproject.org/v0.js"></script>
+    <script async custom-element="amp-fx-flying-carpet" src="https://cdn.ampproject.org/v0/amp-fx-flying-carpet-0.1.js"></script>
     <title>Hello, AMPs</title>
     <link rel="canonical" href="http://example.ampproject.org/article-metadata.html" />
     <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
@@ -21,22 +22,34 @@
 
     <style amp-custom>
       body {
-        margin:40px auto;
-        max-width:650px;
         line-height:1.6;
         font-size:18px;
         color:#444;
         padding:0 10px;
         background: #EEEEEE;
       }
+      
+      #container {
+        margin-left: auto;
+        margin-right: auto;
+        width: 80%;
+      }
+
       h1, h2, h3 {
         line-height:1.2
       }
     </style>
   </head>
   <body>
-    <h1>Welcome to the mobile web</h1>
-    <amp-img src="./frontend vs backend.png" alt="Welcome" height="819" width="1122" layout="responsive"></amp-img>
-
+    <div id="container">
+      <h1>Welcome to the mobile web</h1>
+      <amp-img src="./frontend vs backend.png" alt="Welcome" width="1122" height="819" layout="responsive"></amp-img>
+      <p><span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae tempora laboriosam eveniet explicabo dolorum quod consequatur, neque in non ut facilis ab tenetur. Eaque temporibus ipsa accusamus consectetur, deleniti ducimus.</span>
+      <span>Impedit dicta nostrum officia nulla, quibusdam alias velit nesciunt necessitatibus ipsa repudiandae, nobis quisquam dignissimos? Sint laudantium, saepe eos voluptates minima incidunt delectus, modi dolore eius ratione, consectetur mollitia at.</span>
+      <span>Atque unde recusandae eveniet amet, voluptatibus modi autem laudantium, quibusdam repudiandae est saepe nostrum dicta odit ea mollitia expedita vel veritatis corrupti alias dolorum. Ducimus aperiam corporis porro labore consequatur?</span>
+      <span>Incidunt expedita suscipit fugit debitis provident consectetur asperiores, labore nostrum totam, ea facilis. Nemo alias reprehenderit quasi sit ipsam ullam voluptates enim doloremque suscipit quod, in non delectus similique cumque.</span>
+      <span>Tempore dicta labore beatae sed sequi inventore molestias voluptatum sint ratione in itaque maiores autem neque ipsam, nisi culpa laudantium numquam, aliquam quis non ducimus accusantium. Reprehenderit magnam architecto reiciendis!</span></p>
+    </div>
+    
   </body>
 </html>
