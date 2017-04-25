@@ -6,7 +6,11 @@
 
 ## Inner conflict
 - Debate between whether to stay loyal to Caesar or assassinate him for the betterment of Rome
-	- A1S2: "Brutus, at war with himself"
+	- A1S2
+
+	> Vexed I am / Of late with passions of some difference, / conceptions only proper to myself
+	> poor Brutus, with himself at war
+
 	- A2S1: 
 
 		> "I would it were my fault to sleep so soundly"
@@ -73,3 +77,41 @@
 
 		- Brutus is not astute enough to sense characteristics beyond the surface and read Antony correctly
 		- Too idealistic to be a good politician, takes everyone at face value
+
+- *Act __3__, Scene __1__*
+	- 
+
+## Very influential in terms of reputation
+- *Act __1__, Scene __3__*
+	- Cassius and his conspiracy intend to use his repute and influence
+
+		> *Casca:* O, he sits high in all the people's hearts; / and that which would appear offence in us, / his countenance, like richest alchemy, / will change to virtue and to worthiness
+		> *Cassius:* [...] our great need of him / you have right well conceited
+
+		- Cassius and co. know that when the public sees Brutus with the conspiracy, they will be influenced by his high reputation and view their conspiracy as a noble cause
+
+- *Act __2__, Scene __1__*
+	- Ligarius' reaction to Brutus being in the conspiracy
+
+		> *Lucius:* Here is a sick man that would speak with you.
+		*(...)*
+		> *Brutus:* O what a time have you chose out, brave Caius, / to wear a kerchief! Were you not sick!
+
+		- Initially, Ligarius seems to be very ill. However...
+
+		> *Lucius:* I am not sick if Brutus have in hand / any exploit worthy the name of honour
+		*(...)*
+		> *Lucius:* By all the gods that Romans bow before, / I here discard my sickness. **Soul of Rome!** / **Brave son**, derived from *honourable loins*, / thou like an exorcist has conjured up / my mortified spirit
+
+		- ...upon hearing that Brutus has something for him to do, Ligarius is either miraculously cured or willing to ignore his illness; either way, his illness suddenly becomes irrelevant because Brutus has something for him to do
+		- words as strong as "Soul of Rome", "brave son, derived from honourable loins" show the immensely high opinion Ligarius has of Brutus
+
+## Calm, self-controlled demeanour
+- *Act __3__, Scene __1__*
+	- Reassures Cassius that nothing is happening
+
+		> Cassius, be constant. / Popilius Lena speaks not of our purposes
+
+		- Displays cool-headedness
+		- Displays swift, strong, assertive reaction consistent with good leadership
+		- Admonition to "be **constant**" stands in contrast with Cassius panicing of "be **sudden**"
