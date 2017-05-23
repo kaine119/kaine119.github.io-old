@@ -1,4 +1,4 @@
-<style>body {width: 75%} .markdown-body blockquote {margin-bottom: 3px} .markdown-body li>p {margin-top: 3px; margin-bottom: 3px;}</style>
+<meta name="viewport" content="width=device-width, initial-scale=1"><style>body {width: 90%} .markdown-body blockquote {margin-bottom: 3px} .markdown-body li>p {margin-top: 3px; margin-bottom: 3px;}</style>
 
 # Caesar
 
