@@ -107,6 +107,10 @@
 	- growing generation of young people hoping to hold conversations highlighting inequality, like #BeingFemaleInNigeria on Twitter in 2015
 	- Majority still rationalise rights along the lines of religion and cultural belief
 
+- Somalia
+	- In Somaliland, there is only **one** female minister out of **28**, and **two** members of Parliment out of **86**
+	- Noticable absence of women in higher levels of department, such as general director and head of department levels
+
 ------
 
 > Women aren't allowed to drive in Saudi Arabia
@@ -154,7 +158,32 @@
 - Fewer female voices at governing level results in female atheletes remaining as **second-case citizens** in **funding, salaries, and media coverage**
 
 ## Academics / Education
-- 
+> New research by the Economist Intelligence Unit, commissioned by the British Council
+
+- while there has been a dramatic rise in the number of female students enrolled in South Asia’s universities, this has not been matched by an increase in women occupying senior leadership roles in the sector.
+
+> A 1998 report by US Department of Commerce
+
+- Main barriers for women in education in India:
+	- Inadequate school facilities (like sanitray facilities)
+	- Shortage of female teachers
+	- Gender bias in cirriculum (e.g. **female characters** depicted as **weak and helpless**, vs **male characters** as **strong, adventerous**, and **intelligent**)
+
+> A UNESCO report on health and education around the globe
+
+- 1 in 10 girls miss school due to their menstural cycle
+- Equates to as much as 20% of a school year
+- Many skip school due to inadequate water and sanitation facilities in schools, as well as fear of unsupportive environments and potential sexual harassment
+- 50% of schools in less developed countries do not have adequate sanitation or water on school grounds
+
+## Health
+- Todays maternal death rate 45% of that in 1990
+- still, **800** women die *daily* from **preventable** pregnancy-related complications
+
+- Significant challenges remain:
+	- Lack of access to sexual/reproductive health services
+		- [Global gag rule](https://en.wikipedia.org/wiki/Mexico_City_policy) bans any mention of abortion in US-aided countries, regardless of legal status in country itself
+		- Obama recidended the rule when he took office, but Trump **reinstated** the rule when he took office
 
 ## Religion
 
