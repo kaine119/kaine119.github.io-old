@@ -2,11 +2,12 @@
 # Evidence for LA Essays
 
 ## Year 4 (Global issues)
-[Gender discrimination](./gender-discrimination.html)
-[National Identity](./national-identity.html)
-[Education](./education.html)
-[Science and Technology](./science-technology.html)
+[Gender discrimination](gender-discrimination.html)
+[National Identity](national-identity.html)
+[Education](education.html)
+[Science and Technology](science-technology.html)
+[Sustainable Development](sustainable-development.html)
 
 ## Year 3 (Youths)
-[Crime](./crime.html)
-[Meida](./media.html)
+[Crime](crime.html)
+[Media](media.html)
