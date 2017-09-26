@@ -1,3 +1,5 @@
+<meta name="viewport" content="width=device-width, initial-scale=1"><style>body {width: 90%}</style>
+
 Socratic Seminar 3 — Education Systems
 ===
 [TOC]

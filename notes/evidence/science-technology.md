@@ -1,4 +1,8 @@
+<meta name="viewport" content="width=device-width, initial-scale=1"><style>body {width: 90%}</style>
+
 # Science and Technology
+
+[TOC]
 
 ## Internet Safety
 > Point: The Internet has to be user-friendly and safe for everyone to use.
