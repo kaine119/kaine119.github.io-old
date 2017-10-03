@@ -36,11 +36,71 @@
 		- => makes audience curious about the reason for his decision, builds anticipation
 
 ## Characteristics
-### Noble, with pure intentions
-- *Act __2__, Scene __1__*
-	- "I know no personal cause to spurn at him, / but for the general"
-		- Brutus does things for the noble cause of the greater good
-		- Does not decide to assassinate Caesar over personal grudges, but for the greater good of Rome
+### Generally serious, sober
+- Not fond of sports
+- Generally doesn't have a lively demeanour (in **contrast** to Antony)
+> *Act __1__, Scene __2__*: I am not gamesome...   
+- Doesn't panic, acts rationally in times of panic
+> Cassius, be constant. / Popilius Lena speaks not of our purposes
+	- Reassures Cassius that nothing is happening
+	- Displays swift, strong, assertive reaction consistent with good leadership
+	- Admonition to "be **constant**" stands in contrast with Cassius panicing of "be **sudden**"
+
+### Not hasty, guarded
+- Wary, suspicious, alert
+> _Act 1 Scene 2, when Cassius starts praising him_
+	Into what dangers would lead me, Cassius, / that you would have me seek into myself / that which is not in me?
+- Careful, perceptive enough to know Cassius' intent, does not rush into committing himself
+> _Act 1 Scene 2, when he makes his decision_
+	What you would work me to, I have some aim
+
+---
+
+### Ponderous, thinks deeply
+- Anxious about Caesar's rise in power
+- ⇒ becomes distant from freinds, thinks things through himself
+> "If I have veiled my look, / I turn the trouble of my countenance / merely on myself"
+
+---
+
+### Principled
+**Cassius uses this to manipulate Brutus!**
+
+- Man of honour, integrity
+- Will not compromise these values, but will **do anything** for the **greater good** of Rome
+- Patriotic, son of Rome: willing to self-sacrifice for Rome
+> _Act 1 Scene 3:_
+	If it be aught toward the _general good_ of Rome, / set honour in one eye and death i'the other, / And I will look on both indifferently  
+	For let the gods so speed me as **I love / the name of honour more than I fear death**  
+- Has **sense of duty** to Rome
+> _Act 1 Scene 3_
+	Brutus had rather be a villager / Than to repute himself aa sone of Rome / under these hard conditions as this time / is like to lay upon us
+- Brutus does things for the noble cause of the greater good
+- Does not decide to assassinate Caesar over personal grudges, but for the greater good of Rome
+> *Act __2__, Scene __1__*
+	"I know no personal cause to spurn at him, / but for the general"
+
+### Self-deluded
+- Tries to convince himself that Caesar must die
+> *Act 2, Scene 1, when debating with himself*
+> - *use of the words:* Fashion it thus...
+> - Use of **hypotheses**, concept of **prevention**
+> - Uses common proofs to hypothesise
+
+### Gullible
+- Believes notes are actually from people of Rome who want him to displace Caesar
+- Doesn't verify or check with people, to see if they really are suffering under Caesar
+- Falls into trap of believing it's his responsibility to act for the people
+> *Act 2 Scene 1, reading the letters*:
+	Am I entreated / to speak, and strike? O Rome, I make thee promise / if the redress will follow, thou receivest / thy full petition at the hands of Brutus
+
+### Not a good judge of character
+- Not shrewd, not astute
+- Lacks perceptiveness of Mark Antony, completely misjudges him
+- **FATAL ERROR OF JUDGEMENT** here: brushes aside Cassius' reservations
+> - Thinks of Mark Antony as "**but a limb of Caesar**"
+> 	- one who can't do anything "like Caesar's arm when Caesar's head is cut off" 
+> - thinks Mark Antony can only kill himself in grief, won't even do that b/c he's too fond of enjoying life
 
 ### Intensely proud of Roman spirit
 - *Act __2__, Scene __1__*
@@ -51,67 +111,30 @@
 		- Firmly believes that **true** Romans don't need to take oaths because their words are as strong as oaths
 
 ### Naïve, idealistic
-- *Act __2__, Scene __1__*
-	- Believes that everyone speaks the truth and is acting for the benefit of Rome
+_(to the point of delusion)_
 
-		> What other bond / Than secret **Romans**, that have spoke the word, / And will not palter?
+- Naturally open, honest
+- Concept of conspiracy is __anathema__, finds subterfuge and dissembling __abhorrent__
+- ⇒ doesn't like it that conspirators cover faces when they arrive at his home
+> *Act 2 Scene 1, when the conspirators arrive*
+	O conspiracy, / sham'st thou to show thy dangerous brow by night, / when evils are most free?
 
-		- Believes that _all_ Romans speak the truth and nothing but the truth
-		- Does not suspect that other consiprators might not be as truthful and noble as he is
+---
 
-		> Let us be sacrificers, but not butchers
-		> Let's carve him as a dish fit for the gods
+- Believes that everyone's motives arae noble, their characters strong and sincere
+- ⇒ there's no need to take an oath
+> *Act __2__, Scene __1__, when discussing with conspirators*
+	What other bond / Than secret **Romans**, that have spoke the word, / And will not palter?
+- opposes Cassius' suggestion that Mark Antony should be killed as well
+> * Cassius: Antony is a "shrewd contriver", will "annoy" them all
+> * Brutus: Course will seem **"too bloody"**, seem like "wrath" and "envy"
+- deluded about the gravity of their plotting; unrealistic idealism
+> * Caesar should be "carved as a dish _fit for the Gods_", and not "butchered" or "hewed as a carcass fit for hounds" 
+> * they are standing up "against the spirit of Caesar", and "in the spirit of men there is no blood"
 
-		- "Sacrificers" implies that their killing of Caesar is one fit for the Gods, and that they're doing this for the whole of Rome
-		- Brutus believes that their assassination is for Rome, and not for any of the conspirator's own personal gain, hence the allusion to a holy sacrifice
+### Highly regarded
+- Has honourable reputation, enjoys respect, highly regarded by the Romans
+- Cassius and his conspiracy intend to use his repute and influence
+	> *Casca:* O, he sits high in all the people's hearts; / and that which would appear offence in us, / his countenance, like richest alchemy, / will change to virtue and to worthiness
 
-		> We shall be called purgers, not murderers
-
-		- "Purge" connotates the removal of disease and illness
-		- Brutus thinks that they are removing Caesar from power to help Roem get rid of his tyranny
-
-	- Fatally misreads Antony
-
-		> Antony is but a limb of Caesar
-		> All that he can do / Is to himself, take thought, and die for Caesar
-
-		- Brutus is not astute enough to sense characteristics beyond the surface and read Antony correctly
-		- Too idealistic to be a good politician, takes everyone at face value
-
-- *Act __3__, Scene __1__*
-	- 
-
-## Very influential in terms of reputation
-- *Act __1__, Scene __3__*
-	- Cassius and his conspiracy intend to use his repute and influence
-
-		> *Casca:* O, he sits high in all the people's hearts; / and that which would appear offence in us, / his countenance, like richest alchemy, / will change to virtue and to worthiness
-		> *Cassius:* [...] our great need of him / you have right well conceited
-
-		- Cassius and co. know that when the public sees Brutus with the conspiracy, they will be influenced by his high reputation and view their conspiracy as a noble cause
-
-- *Act __2__, Scene __1__*
-	- Ligarius' reaction to Brutus being in the conspiracy
-
-		> *Lucius:* Here is a sick man that would speak with you.
-		*(...)*
-		> *Brutus:* O what a time have you chose out, brave Caius, / to wear a kerchief! Were you not sick!
-
-		- Initially, Ligarius seems to be very ill. However...
-
-		> *Lucius:* I am not sick if Brutus have in hand / any exploit worthy the name of honour
-		*(...)*
-		> *Lucius:* By all the gods that Romans bow before, / I here discard my sickness. **Soul of Rome!** / **Brave son**, derived from *honourable loins*, / thou like an exorcist has conjured up / my mortified spirit
-
-		- ...upon hearing that Brutus has something for him to do, Ligarius is either miraculously cured or willing to ignore his illness; either way, his illness suddenly becomes irrelevant because Brutus has something for him to do
-		- words as strong as "Soul of Rome", "brave son, derived from honourable loins" show the immensely high opinion Ligarius has of Brutus
-
-## Calm, self-controlled demeanour
-- *Act __3__, Scene __1__*
-	- Reassures Cassius that nothing is happening
-
-		> Cassius, be constant. / Popilius Lena speaks not of our purposes
-
-		- Displays cool-headedness
-		- Displays swift, strong, assertive reaction consistent with good leadership
-		- Admonition to "be **constant**" stands in contrast with Cassius panicing of "be **sudden**"
+- Other conspirators agree with whatever Brutus says, against their better judgement, because they _need_ him in the conspiracy
