@@ -138,5 +138,5 @@ Open your browser and type `localhost:5050` in the address bar. You should see:
 Hello world!
 ```
 
-If you've gotten here, congrats~ you're ready!
+If you've gotten here, congrats~ you're done!
 
